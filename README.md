@@ -8,15 +8,15 @@ Project template for a simple web service using python django
 
     - apply migration
     
-    `python manage.py migrate`
+        `python manage.py migrate`
 
     - create superuser account
     
-    `python manage.py createsuperuser`
+        `python manage.py createsuperuser`
 
     - start the server 
     
-    `python manager.py runserver`
+        `python manager.py runserver`
 
     - create poll questions with newly created superuser account 
     http://127.0.0.1:8000/admin/
